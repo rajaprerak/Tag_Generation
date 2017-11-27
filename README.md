@@ -1,6 +1,6 @@
 # Tag_Generation
 
-Markup : * Cleaning the data     
+Markup : ..* Cleaning the data     
          * Tokenizing
          * Selecting the nouns
          * Lemmatization
