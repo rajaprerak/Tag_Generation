@@ -1,6 +1,7 @@
-# Tag_Generation: Given stack exchange question generate relevant tags relate to question
+## Tag_Generation
+* Given stack exchange question generate relevant tags relate to question
 
-
+#### Steps
 * Cleaning the data     
 * Tokenizing
 * Selecting the nouns
