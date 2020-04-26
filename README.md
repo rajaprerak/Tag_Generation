@@ -1,5 +1,5 @@
-## Generate tags for stackoverflow question
-* Given stack exchange question generate relevant tags relate to question
+## Tag Generation
+* Given stack exchange question, generate relevant tags related to the question.
 
 ### Steps
 * Cleaning the data     
