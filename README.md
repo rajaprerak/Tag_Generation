@@ -1,4 +1,4 @@
-## Tag_Generation
+## Generate tags for stackoverflow question
 * Given stack exchange question generate relevant tags relate to question
 
 #### Steps
